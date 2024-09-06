@@ -14,6 +14,5 @@ function carWash(input) {
         }
     }
     console.log(`The car is ${total.toFixed(2)}% clean.`);
-
 }
 carWash(["soap", "soap", "vacuum cleaner", "mud", "soap", "water"]);
